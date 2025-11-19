@@ -4,7 +4,9 @@
 
 **Repository Structure**
 - **Root files:**: `README.md`
-- **Day folders:**: `Day-01/` — contains `day1.ipynb` (first-day exercises and examples).
+- **Day folders:**:
+	- `Day-01/` — contains `day1.ipynb` (first-day exercises and examples).
+	- `Day-02/` — contains `day2.ipynb` (second-day exercises and examples).
 
 **Prerequisites**
 - **Python:**: Python 3.8+ installed and available on `PATH`.
